@@ -58,6 +58,8 @@ Each licensee receives a **unique payment key**, which serves several purposes:
 Without a valid payment key, **transactions cannot be processed**, ensuring full legal and operational transparency.
 
 ---
+## 📖 More Information  
+For additional details, check out our [FAQ.md](FAQ.md).
 
 ## 📜 License
 

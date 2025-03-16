@@ -61,7 +61,7 @@ No. Redistribution of the blueprint is strictly prohibited under the **TBYD Lice
 
 ---
 
-## 💬 Support & Contact
+## 💬 Support & Contact 
 
 ### 🔹 Who do I contact for payment or access issues?
 If you experience any issues, contact us **via the official communication channel** provided after license acceptance.

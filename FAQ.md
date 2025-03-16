@@ -5,6 +5,13 @@
 ### 🔹 What is MaxOneCloud?
 MaxOneCloud is a fully documented, open-source cloud infrastructure that provides **digital sovereignty, zero-trust security, and significantly lower costs** compared to traditional cloud providers.
 
+Unlike a simple "blueprint," MaxOneCloud is a **fully detailed, technical construction guide** that allows any professional team to deploy a sovereign cloud **without requiring further consultation or additional information**.
+
+✔️ **Complete technical specifications, security protocols & scaling models** are included.
+✔️ **CAPEX: €23M | OPEX: €7M until ROI** – Full economic framework for deployment.
+✔️ **Vendor Lock-in Free** – No dependence on BigTech providers.
+✔️ **Proven cost model** – 50% lower total cost than traditional cloud services.
+
 ---
 
 ## 💳 Payment & Access
@@ -61,7 +68,7 @@ No. Redistribution of the blueprint is strictly prohibited under the **TBYD Lice
 
 ---
 
-## 💬 Support & Contact 
+## 💬 Support & Contact
 
 ### 🔹 Who do I contact for payment or access issues?
 If you experience any issues, contact us **via the official communication channel** provided after license acceptance.

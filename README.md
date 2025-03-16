@@ -25,18 +25,13 @@ Designed for businesses, governments, and independent cloud operators, MaxOneClo
 
 ---
 
-## 🚀 Why is MaxOneCloud Revolutionary?  
+## 🚀 MaxOneCloud is Just the Beginning  
 
-Unlike traditional cloud providers (**AWS, Azure, Google Cloud**), MaxOneCloud removes **central dependencies** and ensures absolute **data security & cost efficiency**.  
+MaxOneCloud is **the first of 13 sovereign infrastructures** designed to **replace BigTech dependencies step by step** over the next **24 months**.  
 
-| Feature            | MaxOneCloud       | AWS / Azure / Google Cloud |
-|--------------------|------------------|----------------------------|
-| 🔐 **Security Model** | Zero-Trust      | Centralized Security       |
-| 🏛 **Sovereignty**   | 100% User-Controlled | Vendor-Locked           |
-| 💰 **Cost Savings** | 50% Lower TCO    | High Subscription Fees     |
-| 📈 **Scalability**  | >1M Requests/sec | 500K-600K Requests/sec    |
+📌 **Next Release: MaxOneOpen (LLM) – April 2025**  
 
-📌 **Conclusion:** MaxOneCloud **outperforms BigTech clouds** in security, independence, and cost-efficiency.  
+🔹 Learn more about the **full roadmap & vision** in our [MaxOneCloud Vision Document](#).  
 
 ---
 
@@ -47,7 +42,7 @@ MaxOneCloud follows an **open-source model**, but access to the implementation f
 📌 **Step-by-Step Access Process**  
 1️⃣ **Accept the TBYD License v2.2**  
 2️⃣ **Request a Unique Payment Key** (Prevents abuse & ensures license compliance)  
-3️⃣ **Complete the One-Time Payment (€900 in Crypto)**  
+3️⃣ **Complete the One-Time Payment (€900 in Ethereum (ETH))**  
 4️⃣ **Receive Secure Access to the Full MaxOneCloud Repository**  
 
 📢 **Once you have access, you will receive the full deployment & technical documentation.**  

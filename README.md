@@ -69,6 +69,17 @@ Enhanced README: Improved structure, blueprint explanation & calls-to-action
 - Strengthened call-to-action for community engagement
 - Improved readability & structure for maximum clarity
 
+# 1️⃣ Repository klonen
+git clone https://github.com/TBYD-SAC/MaxOneCloud-License.git  
+cd MaxOneCloud-License  
+
+# 2️⃣ Umgebung vorbereiten  
+chmod +x install.sh  
+./install.sh  
+# Helm Chart bereitstellen
+helm repo add maxone https://repo.maxonecloud.org/  
+helm install maxonecloud maxone/maxonecloud  
+
 ---
 
 🔥 **Get started today & take back control over your cloud!**  

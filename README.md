@@ -87,7 +87,6 @@ It is set deliberately at a level that:
 💬 **Official Telegram:** [t.me/Tbyd2025](https://t.me/Tbyd2025)  
 💼 **LinkedIn (TBYD):** [Take Back Your Data](https://www.linkedin.com/company/take-back-your-data/)  
 📜 **License Details:** [LICENSE.md](LICENSE.md)  
-📢 **Full Documentation & Updates:** [GitHub Repository](https://github.com/TBYD-SAC/MaxOneCloud-License)  
 
 ---
 

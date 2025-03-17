@@ -19,7 +19,7 @@ Designed for businesses, governments, and independent cloud operators, MaxOneClo
 ## **🚀 MaxOneCloud is Just the Beginning**  
 MaxOneCloud is the **first of 13 sovereign infrastructures** designed to replace **BigTech dependencies step by step** over the next 24 months.  
 
-📌 **Next Release: [MaxOneOpen (LLM) – April 2025](../MaxOneOpen)**  
+📌 **Next Release: [MaxOneOpen (LLM) – April 2025](MaxOneOpen)**  
 
 🔹 **More details on upcoming infrastructures will be released gradually.**  
 
@@ -102,5 +102,4 @@ MaxOneCloud is published under the **Take Back Your Data (TBYD) License v2.2**, 
 🚀 **MaxOneCloud is not just a cloud—it is a statement for digital independence.**  
 📢 **We take every step necessary to ensure that no entity—BigTech or otherwise—can stop it.**  
 
-🔹 **[Back to Home](Home)**
-
+🔹 **[Back to Main Wiki](../Home)**  

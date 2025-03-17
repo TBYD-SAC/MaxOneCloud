@@ -3,6 +3,8 @@
 🚀 **Take Back Your Data (TBYD) – Open Infrastructures for a Sovereign Digital Future**  
 🔐 **MaxOneCloud – The first fully documented, sovereign, decentralized cloud system**  
 
+---
+
 ## 🛠️ What is MaxOneCloud?  
 MaxOneCloud is the first fully documented, open-source cloud infrastructure that eliminates central control and ensures full digital sovereignty.  
 Designed for **businesses, governments, and independent cloud operators**, MaxOneCloud offers:  
@@ -78,7 +80,7 @@ MaxOneCloud is published under the **Take Back Your Data (TBYD) License v2.2**, 
 ## 📢 Learn More  
 
 📜 **[FAQ – Frequently Asked Questions](https://github.com/TBYD-SAC/MaxOneCloud/blob/main/FAQ.md)**  
-🔹 **[How MaxOneCloud Works](https://github.com/TBYD-SAC/MaxOneCloud/wiki/How-It-Works)**  
+🔹 **[How MaxOneCloud Works](https://github.com/TBYD-SAC/MaxOneCloud/wiki/How-MaxOneCloud-Works)**  
 🔹 **[Security & Compliance](https://github.com/TBYD-SAC/MaxOneCloud/wiki/Security-and-Compliance)**  
 🔹 **[Deployment & Scaling](https://github.com/TBYD-SAC/MaxOneCloud/wiki/Deployment-and-Scaling)**  
 

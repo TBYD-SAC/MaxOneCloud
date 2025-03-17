@@ -20,7 +20,7 @@ Designed for **businesses, governments, and independent cloud operators**, MaxOn
 ## 🚀 MaxOneCloud is Just the Beginning  
 MaxOneCloud is the first of **13 sovereign infrastructures** designed to replace BigTech dependencies over the next **24 months**.  
 
-📌 **Next Release:** [MaxOneOpen (LLM) – April 2025](https://github.com/TBYD-SAC/MaxOne/wiki/MaxOneOpen)  
+📌 **Next Release:** (https://github.com/TBYD-SAC/MaxOne-Wiki/wiki)
 🔹 More details on upcoming infrastructures will be released gradually.  
 
 ---

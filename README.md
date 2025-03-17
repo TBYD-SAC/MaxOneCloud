@@ -64,7 +64,8 @@ This fee is **not a commercial charge** – it exists to **protect future operat
 ## **❓ Need Help? Check the FAQ!**  
 💡 **Common questions & troubleshooting solutions are available in the FAQ.**  
 
-🔹 **[FAQ & Troubleshooting](https://github.com/TBYD-SAC/MaxOneCloud/wiki/FAQ)**  
+🔹 **[Read the FAQ](https://github.com/TBYD-SAC/MaxOneCloud/blob/main/FAQ.md)**
+  
 
 ---
 

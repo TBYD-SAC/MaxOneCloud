@@ -13,10 +13,12 @@ Designed for **businesses, governments, and independent cloud operators**, MaxOn
 ✅ **100% Open Knowledge** – Not patentable, freely usable by all  
 ✅ **Future-Proofed Architecture** – Built for scalability, security & efficiency  
 
+---
+
 ## 🚀 MaxOneCloud is Just the Beginning  
 MaxOneCloud is the first of **13 sovereign infrastructures** designed to replace BigTech dependencies over the next **24 months**.  
 
-📌 **Next Release:** [MaxOneOpen (LLM) – April 2025](https://github.com/TBYD-SAC/MaxOneCloud/wiki/MaxOneOpen)  
+📌 **Next Release:** [MaxOneOpen (LLM) – April 2025](https://github.com/TBYD-SAC/MaxOne/wiki/MaxOneOpen)  
 🔹 More details on upcoming infrastructures will be released gradually.  
 
 ---

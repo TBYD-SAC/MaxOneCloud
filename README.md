@@ -24,7 +24,7 @@ Designed for **businesses, governments, and independent cloud operators**, MaxOn
 MaxOneCloud follows an **open-source model**, but access to the **implementation framework** requires a one-time **legal protection fee of €900 (paid in Ethereum (ETH))**.  
 
 📌 **Step-by-Step Access Process:**  
-1️⃣ **Accept the [TBYD License v2.2](https://github.com/TBYD-SAC/MaxOneCloud/wiki/License-and-Access)**  
+1️⃣ **Accept the [TBYD License v2.2](https://github.com/TBYD-SAC/MaxOneCloud/blob/main/LICENSE.md)**
 2️⃣ **Request a Unique Payment Key** (Prevents abuse & ensures license compliance)  
 3️⃣ **Complete the One-Time Payment (€900 in Ethereum (ETH))**  
 4️⃣ **Receive Secure Access to the Full MaxOneCloud Repository**  
